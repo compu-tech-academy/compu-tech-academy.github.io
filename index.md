@@ -27,19 +27,27 @@ feature_row:
 
   - image_path: assets/images/default.jpg
     alt: "research-pics"
-    title: "Mechatronics research arena"
+    title: "Software Development"
     url: "#test-link"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-    excerpt: "Implemetation driven research using state-of-art **mechanical,electronics and digital expertise.**"
+    excerpt: "Implemetation driven software development with state-of-art **development tools and languages**"
 
   - image_path: assets/images/default.jpg
-    alt: "some stuffs here also"
-    title: "Stuff title here"
+    alt: "networking image"
+    title: "Computer Networking"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    excerpt: "Brief description of this here"
+    excerpt: "Real and Virtual Network design and implementation made simple and practical"
+
+  - image_path: assets/images/default.jpg
+    alt: "skill image"
+    title: "IT/ICT Professional skills"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    excerpt: "Become a resourceful, productive and industrial indespensible IT/ICT Pro within the shortest possible time"
 ---
 
 {% include feature_row id="intro" type="center" %}

@@ -79,6 +79,69 @@ Get started with frontend development as fast and quick as you can think with ha
 <div markdown="0"><a href="#" class="btn btn--info">Info Button</a></div>
 
 
+
+
+## JAVASCRIPT PROGRAMMING
+
+A brief disscussion about javascript programming language here
+
+```javascript
+function a_function{
+      // do a bit of wonder here
+}
+```
+
+
+## PHP PROGRAMMING
+
+Learn trending and master coding in php with its most used framework **LARAVEL**
+
+```php
+function a_function{
+      // do a bit of wonder here
+}
+```
+
+## MATLAB PROGRAMMING
+
+Become a pro in mathematical manipulation and other research related activities when we groom you to master the **A-Z** of matlab
+
+```matlab
+classdef ClassName
+   properties
+     Prop1
+     Prop2 = 'some text';
+     Prop3 = sin(pi/12);
+   end
+end
+```
+
+## C#
+
+Want to become a **.net** pro like Bill Gate? The avenue is here. Join our c-sharp class to start up the journey today 
+
+```c#
+class MyClass{
+      public static void main(String[] args){
+	// do stuff here
+      }
+}
+```
+
+## C++
+
+Are you a budding engineer, a game programmer or desire to code straight into the hardware? Then our core C++ programe is just for you. Try it today 
+
+```c++
+class MyClass{
+      static void main(String[] args){
+	// do uplift here
+      }
+}
+```
+
+
+
 ### Blockquotes
 
 > Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
@@ -115,5 +178,5 @@ Get started with frontend development as fast and quick as you can think with ha
 
 ## Comming Soon
 
-**Watch out!** We are adding javascript to our frontend technology to breath life into your frontend development.
+**Watch out!** We are adding cloud computing to our stack of technology to attenuate hardware investment and make u in phase with state-of-the-art technology.
 {: .notice}
