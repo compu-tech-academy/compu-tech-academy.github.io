@@ -138,42 +138,26 @@ class MyClass{
 	// do uplift here
       }
 }
-```
+```         
+    
 
+## Trending Programs
 
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
+| PROGRAMME                   | DESCRIPTION                                                                                                   | PRICE  |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------|--------|
+| Basic Programming           | Overview and fundamentals of programming                                                                      | **15,000** |
+| Software Development(I)     | Graphics User Interface(GUIs), Object Oriented Programming(OOP) User's Experience(UI)                         | **15,000** |
+| Software Development(II)    | Database Configurations, Object Oriented Programming, System Modelling, Application Programme Interface(APIs) | **50,000** |
+| Web Design                  | User Interface/User Experience(UI/UX), HTML, Javascript and JQuery Cascading Style Sheet(CSS)                 | **15,000** |
+| Android Developments        | Development of applications form android platform                                                             | **30,000**  |
+| Computer Packages           | All Office Suites(Ms Word, Ms Excel, Ms Powerpoint, and Ms Access Database)                                   | **15,000** |
+| Basic Computer Engineering  | PC Upgrade, Repair and Maintenance                                                                            | **15,000** |
+| Computer Graphics           | CoreDraw, Photoshop, GNU Image Manipulation program(GIMP) and Paint                                           | **15,000** |
+| Computer Aided Design       | AutoCAD, ArchiCAD, Ansys                                                                                      | **50,000** |
+| Animations                  | Blender,Pencil2D, Synfig,  Studio, Animaker                                                                   | **50,000** |
+| Advance Computing           | Machine Learning(ML), Artificial Intelligence(AI), Digital Image Processing, Digital Signal Processing        | **50,000** |
+| General IT/ICT              | Computer Theories 1 and 2                                                                                     | **30,000** |
+| Embedded System Programming | Arduino, PIC, Raspberry PI                                                                                    | **50,000** |
 
 
 ## Comming Soon
