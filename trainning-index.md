@@ -9,12 +9,12 @@ permalink: /trainning/
 
 ## JAVA PROGRAMMING
 
-A brief disscussion about java programming language and possibly what student stands to gain. Then I pulled this up... A snippet
+Want to take up the challenge of revolutionalizing the enterprise world from the strokes of few keyboard?. The best way is here; get started with our java programming class and discover how blissful it is achieve your dreams.
 
 ```java
 public class MyClass{
       public static void main(String[] args){
-	// do stuff here
+	// blow up your imagination here
       }
 }
 ```
@@ -26,7 +26,7 @@ How best can you get started with machine learning other than getting your finge
 
 ```python
 def myfunction(**kwargs):
-    # do all your dirty jobs here
+    # soar beyond your limits here
 ```
 
 ## Cascade StyleSheet
@@ -87,7 +87,7 @@ A brief disscussion about javascript programming language here
 
 ```javascript
 function a_function{
-      // do a bit of wonder here
+      // stunt the world here
 }
 ```
 
@@ -98,7 +98,7 @@ Learn trending and master coding in php with its most used framework **LARAVEL**
 
 ```php
 function a_function{
-      // do a bit of wonder here
+      // do the undoable here
 }
 ```
 
@@ -144,22 +144,22 @@ class MyClass{
 ## Trending Programs  
 **Register For The Following Programs At Computech**
 
-| **PROGRAMME**                   | **DESCRIPTION**                                                                                                   | **PRICE**  |
-|-----------------------------|---------------------------------------------------------------------------------------------------------------|--------|
-| Basic Programming           | Overview and fundamentals of programming                                                                      | **15,000** |
-| Software Development(I)     | Graphics User Interface(GUIs), Object Oriented Programming(OOP) User's Experience(UI)                         | **15,000** |
-| Software Development(II)    | Database Configurations, Object Oriented Programming, System Modelling, Application Programme Interface(APIs) | **50,000** |
-| Web Design                  | User Interface/User Experience(UI/UX), HTML, Javascript and JQuery Cascading Style Sheet(CSS)                 | **15,000** |
-| Android Developments        | Development of applications form android platform                                                             | **30000**  |
-| Computer Packages           | All Office Suites(Ms Word, Ms Excel, Ms Powerpoint, and Ms Access Database)                                   | **15,000** |
-| Basic Computer Engineering  | PC Upgrade, Repair and Maintenance                                                                            | **15,000** |
-| Computer Graphics           | CoreDraw, Photoshop, GNU Image Manipulation program(GIMP) and Paint                                           | **15,000** |
-| Computer Aided Design       | AutoCAD, ArchiCAD, Ansys                                                                                      | **50,000** |
-| Computer Networking         | Network node and topology, Digital Signal, Router                                                             | **50,000** |
-| Animations                  | Blender,Pencil2D, Synfig,  Studio, Animaker                                                                   | **50,000** |
-| Advance Computing           | Machine Learning(ML), Artificial Intelligence(AI), Digital Image Processing, Digital Signal Processing        | **50,000** |
-| General IT/ICT              | Computer Theories 1 and 2                                                                                     | **30,000** |
-| Embedded System Programming | Arduino, PIC, Raspberry PI                                                                                    | **50,000** |
+| **Serial Number** | **PROGRAMME**                   | **DESCRIPTION**                                                                                                   | **PRICE(#)** |
+|---------------|-----------------------------|---------------------------------------------------------------------------------------------------------------|----------|
+| **1**             | Basic Programming           | Overview and fundamentals of programming                                                                      | **15,000**   |
+| **2**             | Software Development(I)     | Graphics User Interface(GUIs), Object Oriented Programming(OOP) User's Experience(UI)                         | **15,000**   |
+| **3**             | Software Development(II)    | Database Configurations, Object Oriented Programming, System Modelling, Application Programme Interface(APIs) | **50,000**   |
+| **4**             | Web Design                  | User Interface/User Experience(UI/UX), HTML, Javascript and JQuery Cascading Style Sheet(CSS)                 | **15,000**   |
+| **5**             | Android Apps Development    | Online and Offline Apps for Mobile Devices                                                                    | **30,000**   |
+| **6**             | Computer Packages           | All Office Suites(Ms Word, Ms Excel, Ms Powerpoint, and Ms Access Database)                                   | **15,000**   |
+| **7**             | Basic Computer Engineering  | PC Upgrade, Repair and Maintenance                                                                            | **15,000**   |
+| **8**             | Computer Graphics           | CoreDraw, Photoshop, GNU Image Manipulation program(GIMP) and Paint                                           | **15,000**   |
+| **9**             | Computer Aided Design       | AutoCAD, ArchiCAD, Ansys                                                                                      | **50,000**   |
+| **10**            | Computer Networking         | Network node and topology, Digital Signal, Router                                                             | **50,000**   |
+| **11**            | Animations                  | Blender,Pencil2D, Synfig,  Studio, Animaker                                                                   | **50,000**   |
+| **12**            | Advance Computing           | Machine Learning(ML), Artificial Intelligence(AI), Digital Image Processing, Digital Signal Processing        | **50,000**   |
+| **13**            | General IT/ICT              | Computer Theories 1 and 2                                                                                     | **30,000**   |
+| **14**            | Embedded System Programming | Arduino, PIC, Raspberry PI                                                                                    | **50,000**   |
 
 ## Comming Soon
 
