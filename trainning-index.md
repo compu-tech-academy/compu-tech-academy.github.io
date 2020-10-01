@@ -141,24 +141,25 @@ class MyClass{
 ```         
     
 
-## Trending Programs
+## Trending Programs  
+**Register For The Following Programs At Computech**
 
-| PROGRAMME                   | DESCRIPTION                                                                                                   | PRICE  |
+| **PROGRAMME**                   | **DESCRIPTION**                                                                                                   | **PRICE**  |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------|--------|
 | Basic Programming           | Overview and fundamentals of programming                                                                      | **15,000** |
 | Software Development(I)     | Graphics User Interface(GUIs), Object Oriented Programming(OOP) User's Experience(UI)                         | **15,000** |
 | Software Development(II)    | Database Configurations, Object Oriented Programming, System Modelling, Application Programme Interface(APIs) | **50,000** |
 | Web Design                  | User Interface/User Experience(UI/UX), HTML, Javascript and JQuery Cascading Style Sheet(CSS)                 | **15,000** |
-| Android Developments        | Development of applications form android platform                                                             | **30,000**  |
+| Android Developments        | Development of applications form android platform                                                             | **30000**  |
 | Computer Packages           | All Office Suites(Ms Word, Ms Excel, Ms Powerpoint, and Ms Access Database)                                   | **15,000** |
 | Basic Computer Engineering  | PC Upgrade, Repair and Maintenance                                                                            | **15,000** |
 | Computer Graphics           | CoreDraw, Photoshop, GNU Image Manipulation program(GIMP) and Paint                                           | **15,000** |
 | Computer Aided Design       | AutoCAD, ArchiCAD, Ansys                                                                                      | **50,000** |
+| Computer Networking         | Network node and topology, Digital Signal, Router                                                             | **50,000** |
 | Animations                  | Blender,Pencil2D, Synfig,  Studio, Animaker                                                                   | **50,000** |
 | Advance Computing           | Machine Learning(ML), Artificial Intelligence(AI), Digital Image Processing, Digital Signal Processing        | **50,000** |
 | General IT/ICT              | Computer Theories 1 and 2                                                                                     | **30,000** |
 | Embedded System Programming | Arduino, PIC, Raspberry PI                                                                                    | **50,000** |
-
 
 ## Comming Soon
 
