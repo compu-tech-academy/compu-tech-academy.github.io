@@ -9,7 +9,7 @@ permalink: /trainning/
 
 ## JAVA PROGRAMMING
 
-Want to take up the challenge of revolutionalizing the enterprise world from the strokes of few keyboard?. The best way is here; get started with our java programming class and discover how blissful it is achieve your dreams.
+Want to take up the challenge of revolutionalizing the enterprise world with strokes of the keyboard?. The best way is here; get started with our java programming class and discover how effortless it is to achieve your dreams.
 
 ```java
 public class MyClass{
@@ -22,7 +22,7 @@ public class MyClass{
 
 ## Python PROGRAMMING
 
-How best can you get started with machine learning other than getting your fingers dirty with some sneaky crafty python code. Get started with python with us and experience how blissful it could be to start coding as you advance toward data science
+How best can you get started with machine learning other than getting your fingers dirty with some sneaky crafty python code. Get started with python with us and experience how smooth it could be to start coding as you advance toward data science
 
 ```python
 def myfunction(**kwargs):

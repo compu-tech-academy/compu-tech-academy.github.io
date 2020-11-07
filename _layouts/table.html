@@ -1,0 +1,19 @@
+---
+layout: splash
+---
+  <table>
+  <tr>
+    <th>SERIAL NUMBER</th>
+    <th>RESEARCH AREA</th> 
+    <th>GUIDELINES</th>
+  </tr>
+  {% for mat in site.data.material %}
+    <tr>
+       <td>{{ mat.number }}</td>
+       <td>{{ mat.title }}</td> 
+       <td><a href="{{mat.url}}"  target="{% if mat.url != '#' %} _blank {% endif %}" 
+                             class="btn btn--{{mat.btn}}">VIEW GUIDELINE</a></td>
+    </tr>
+ {% endfor %}
+</table>
+

@@ -1,0 +1,99 @@
+- number: 1
+  title: "PRECISION AGRICULTURE"
+  url: /pdf/pagric.pdf
+  btn: "success"
+
+- number: 2
+  title: "TELEMEDICINE"
+  url: "#"
+  btn: "danger"
+
+- number: 3
+  title: "INTERNET OF THINGS(IoT)"
+  url: "#"
+  btn: "warning"
+
+- number: 4
+  title: "INDUSTRIAL INTERNET OF THINGS(IIoT)"
+  url: "#"
+  btn: "info"
+
+- number: 5
+  title: "ROBOTICS"
+  url: "#"
+  btn: "success"
+
+- number: 6
+  title: "ARTIFICIAL INTELLIGENCE"
+  url: "#"
+  btn: "danger"
+
+- number: 7
+  title: "MACHINE LEARNING"
+  url: "#"
+  btn: "warning"
+
+- number: 8
+  title: "COMPUTATIONAL FLUID DYNAMICS"
+  url: "#"
+  btn: "info"
+
+- number: 9
+  title: "MODELING AND SIMULATION"
+  url: "#"
+  btn: "success"
+
+- number: 10
+  title: "COMPUTER AIDED MANUFACTURING"
+  url: "#"
+  btn: "danger"
+
+- number: 11
+  title: "MODELING AND SIMULATION"
+  url: "#"
+  btn: "warning"
+
+- number: 12
+  title: "CLOUD COMPUTING"
+  url: "#"
+  btn: "success"
+
+- number: 13
+  title: "MOBILE CLOUD COMPUTING"
+  url: "#"
+  btn: "info"
+
+- number: 14
+  title: "CYBER SECURITY"
+  url: "#"
+  btn: "success"
+
+- number: 15
+  title: "2D & 3D DATA VISUALIZATION"
+  url: "#"
+  btn: "danger"
+
+- number: 16
+  title: "GAME PROGRAMMING"
+  url: "#"
+  btn: "warning"
+
+- number: 17
+  title: "MECHATRONICS"
+  url: "#"
+  btn: "info"
+
+- number: 18
+  title: "MACHINE AUTOMATION"
+  url: "#"
+  btn: "success"
+
+- number: 19
+  title: "DIGITAL SIGNAL PROCESSING"
+  url: "#"
+  btn: "danger"
+
+- number: 20
+  title: "IMAGE SIGNAL PROCESSING"
+  url: "#"
+  btn: "warning"
