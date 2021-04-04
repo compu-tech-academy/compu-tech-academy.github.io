@@ -25,13 +25,13 @@ feature_row:
     btn_class: "btn--primary"
     excerpt: "Experience classic trainning with hand-on practical under conducive trainning environment"
 
-  - image_path: assets/images/default.jpg
+  - image_path: assets/images/web-tech.jpeg
     alt: "research-pics"
-    title: "Software Development"
-    url: "#test-link"
+    title: "Web technologies"
+    url: "/web-tech/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-    excerpt: "Implemetation driven software development with state-of-art **development tools and languages**"
+    excerpt: "Learn web technologies, web design and web development in **two weeks**"
 
   - image_path: assets/images/default.jpg
     alt: "networking image"
@@ -53,3 +53,27 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+
+## WEB TECHNOLOGIES, DESIGN AND DEVELOPMENT
+
+Learn *Frontend, Backend and web frameworks* in `2 weeks`  
+# FRONT END
+HTML5  
+CSS3  
+JAVASCRIPT
+
+# Back End
+PHP  
+MYSQL  
+DATABASE DESIGNS  
+
+# Frameworks
+Rapid web design and development with:  
+Bootstrap  
+WordPress  
+React  
+Angular  
+NodeJs  
+
+
