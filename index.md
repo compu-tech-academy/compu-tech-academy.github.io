@@ -57,7 +57,8 @@ feature_row:
 
 ## WEB TECHNOLOGIES, DESIGN AND DEVELOPMENT
 
-Learn *Frontend, Backend and web frameworks* in `2 weeks`  
+Learn **Frontend, Backend and web frameworks** in <span style="font-size:larger;">**2 WEEKS**</span>
+<hr/>
 # FRONT END
 HTML5  
 CSS3  
