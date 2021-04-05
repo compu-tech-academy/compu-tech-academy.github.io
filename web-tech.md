@@ -22,7 +22,7 @@ HTML5, CSS3 and JAVASCRIPT
 
 PHP, MYSQL, DATABASE DESIGN
 
-## FRAMWORKS.
+## FRAMEWORKS.
 Rapid web design and development with  
 **Bootstrap**  
 **WordPress**  
