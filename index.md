@@ -33,6 +33,14 @@ feature_row:
     btn_class: "btn--primary"
     excerpt: "Learn web technologies, web design and web development in **two weeks**"
 
+  - image_path: assets/images/pro_lang.jpeg
+    alt: "skill image"
+    title: "Programming Languages"
+    url: "/pro-lang/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    excerpt: "Become an astute programmer with hands with hands on practical with experience tutors."
+
   - image_path: assets/images/default.jpg
     alt: "networking image"
     title: "Computer Networking"
